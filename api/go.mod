@@ -1,4 +1,4 @@
-module github.com/riyadh-dev/bookdex/api
+module github.com/moonshoot17/bookdex/api
 
 go 1.22.2
 

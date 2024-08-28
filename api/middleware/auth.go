@@ -4,8 +4,8 @@ import (
 	jwtware "github.com/gofiber/contrib/jwt"
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/riyadh-dev/bookdex/api/config"
-	"github.com/riyadh-dev/bookdex/api/storage"
+	"github.com/moonshoot17/bookdex/api/config"
+	"github.com/moonshoot17/bookdex/api/storage"
 )
 
 type Auth struct {

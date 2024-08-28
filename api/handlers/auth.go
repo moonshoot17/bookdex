@@ -5,9 +5,9 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/riyadh-dev/bookdex/api/config"
-	"github.com/riyadh-dev/bookdex/api/models"
-	"github.com/riyadh-dev/bookdex/api/storage"
+	"github.com/moonshoot17/bookdex/api/config"
+	"github.com/moonshoot17/bookdex/api/models"
+	"github.com/moonshoot17/bookdex/api/storage"
 	"golang.org/x/crypto/bcrypt"
 )
 

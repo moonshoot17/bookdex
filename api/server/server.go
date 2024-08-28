@@ -11,9 +11,9 @@ import (
 	"github.com/gofiber/fiber/v2/middleware/limiter"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/gofiber/fiber/v2/middleware/recover"
-	"github.com/riyadh-dev/bookdex/api/config"
-	"github.com/riyadh-dev/bookdex/api/handlers"
-	"github.com/riyadh-dev/bookdex/api/middleware"
+	"github.com/moonshoot17/bookdex/api/config"
+	"github.com/moonshoot17/bookdex/api/handlers"
+	"github.com/moonshoot17/bookdex/api/middleware"
 	"go.uber.org/fx"
 )
 

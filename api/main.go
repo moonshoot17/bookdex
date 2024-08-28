@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/riyadh-dev/bookdex/api/config"
-	"github.com/riyadh-dev/bookdex/api/database"
-	"github.com/riyadh-dev/bookdex/api/handlers"
-	"github.com/riyadh-dev/bookdex/api/middleware"
-	"github.com/riyadh-dev/bookdex/api/server"
-	"github.com/riyadh-dev/bookdex/api/storage"
+	"github.com/moonshoot17/bookdex/api/config"
+	"github.com/moonshoot17/bookdex/api/database"
+	"github.com/moonshoot17/bookdex/api/handlers"
+	"github.com/moonshoot17/bookdex/api/middleware"
+	"github.com/moonshoot17/bookdex/api/server"
+	"github.com/moonshoot17/bookdex/api/storage"
 	"go.uber.org/fx"
 )
 

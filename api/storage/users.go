@@ -3,8 +3,8 @@ package storage
 import (
 	"context"
 
-	"github.com/riyadh-dev/bookdex/api/config"
-	"github.com/riyadh-dev/bookdex/api/models"
+	"github.com/moonshoot17/bookdex/api/config"
+	"github.com/moonshoot17/bookdex/api/models"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"

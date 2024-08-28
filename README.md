@@ -1,6 +1,6 @@
 # BookDex
 
-![BookDex](https://res.cloudinary.com/riyadh-main-cloud/image/upload/f_webp/q_auto:best/portfolio/bookdex/yw3plcptoa5tgfbkkwb0.png)
+![BookDex](screenshot.webp)
 
 **BookDex** is a sleek fullstack web app to catalog and manage your book collection, built with SolidJS and Go Fiber.
 

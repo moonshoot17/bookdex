@@ -8,7 +8,7 @@ import (
 
 	"github.com/jaswdr/faker"
 	"github.com/joho/godotenv"
-	"github.com/riyadh-dev/bookdex/api/models"
+	"github.com/moonshoot17/bookdex/api/models"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
